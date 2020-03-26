@@ -11,7 +11,7 @@ Instructors: Adi Bronshtein, Chuck Dye
 
 ### Background and Objective
 
-The modern science of astronomy traces its roots back to the beginning of human history. For thousands of years, humans have been tracking the motions of heavenly bodies and using these cycles as the basis for their calendars, upon which agriculture and the survival of civilizations crucially depended. The purpose of observational astronomy has gradually shifted from the survival of society to the advancement of human understanding. Today, astronomers make detailed observations of objects that were entirely unknown just a few centuries ago.
+The modern science of astronomy has its roots in ancient Mesopotamia. For thousands of years, humans have been tracking the motions of heavenly bodies and using these cycles as the basis for their calendars, upon which agriculture and the survival of civilizations crucially depended. The purpose of observational astronomy has gradually shifted from the survival of society to the advancement of human understanding. Today, astronomers make detailed observations of objects that were entirely unknown just a few centuries ago.
 
 One such class of objects is galaxies, the brightest of which are the most distant structures visible to the naked eye. In the last hundred years or so, scientists have become able to take precise measurements of two quantities that are vital to the study and understanding of galaxies: apparent magnitude and redshift.
 
